@@ -4,7 +4,7 @@
 ![CodeCoach AI Workspace](watermarked_img_12926071344461669283.png)
 
 ## 🎥 Demo Video
-[Watch the CodeCoach AI Demo here](YOUR_YOUTUBE_LINK_HERE)
+[Watch the CodeCoach AI Demo here](https://youtu.be/5r2LWd1u8sg?si=GHvFg1uLs8yguoc8))
 
 ## 🎯 Overview
 CodeCoach AI is a next-generation EdTech platform designed to scale elite technical interview preparation. While traditional tools rely on passive solutions or basic text-based AI wrappers that hallucinate, CodeCoach AI pairs a conversational AI interviewer with localized, rigorous backend code compilation.
